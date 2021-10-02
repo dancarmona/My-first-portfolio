@@ -1,13 +1,45 @@
+
+/***************** HEADER ************************/
+
+.header-container {
+    display:inline-flex;
+    flex-wrap: wrap;
+    
+}
+
+ 
 header .title-header {
-    font-size: 3rem;
+margin-right: 300px;
+margin-left: 100px;
+padding-top: 40px;
+font-size: 3rem;
+
+}
+header .nav-bar {
+    margin-left: 300px;
+    font-size: 2rem;
 }
 
-header li {
 
-    margin: 0 9px; 
+
+
+/***************** BODY************************/
+.main-exchange-container {
+
+    display:flex;
+   
+
+}
+    
+.main-exchange-container--description{
+    margin-top: 50px;
+    width: 100%;  
+    margin-left: 20px;
 }
 
-header a {
-    text-decoration: none;
-    color: rgb(124, 158, 168);  
+
+.main-exchange-container .profile-pic {
+    width: 320px;
+    height: 450px;
+  
 }
