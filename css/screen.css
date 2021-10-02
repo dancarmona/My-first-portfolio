@@ -9,10 +9,10 @@
 
  
 header .title-header {
-margin-right: 300px;
+/* margin-right: 300px; */
 margin-left: 100px;
 padding-top: 40px;
-font-size: 3rem;
+font-size: 4rem;
 
 }
 header .nav-bar {
